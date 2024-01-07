@@ -24,7 +24,7 @@
                 <maxHistory>30</maxHistory>
             </rollingPolicy>
         </appender>
-        <root level="WARN">
+        <root level="INFO">
             <appender-ref ref="FILE"/>
         </root>
     </springProfile>
