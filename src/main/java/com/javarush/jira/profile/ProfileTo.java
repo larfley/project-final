@@ -32,6 +32,10 @@ public class ProfileTo extends BaseTo {
         this.lastLogin = null;
     }
 
+    public ProfileTo() {
+
+    }
+
     public boolean isContactTypePresent(String type) {
         return contacts.stream()
                 .map(ContactTo::getCode)
