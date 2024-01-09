@@ -27,4 +27,4 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+Task 1-6 and 9 
